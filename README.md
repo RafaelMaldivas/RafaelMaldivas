@@ -1,5 +1,5 @@
 ## Perfil
-Eu tenho 34 anos, sou estudante de análise e desenvolvimento de sistemas na IFSP, adoro trabalhar com python e django, mas também tenho conhecimento em Javascript, SQL e Java
+Eu tenho 34 anos, sou estudante de análise e desenvolvimento de sistemas na IFSP, adoro trabalhar com python e django, mas também tenho conhecimento em Javascript, SQL e Java, sei desenvolver app utilizando framework IONIC com o Angular
 ## Estatística
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelMaldivas&show_icons=true&theme=radical)[
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMaldivas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
