@@ -1,5 +1,5 @@
 ## Perfil
-Eu tenho 35 anos, sou estudante de análise e desenvolvimento de sistemas na IFSP, adoro trabalhar com python e django, mas também tenho conhecimento em Javascript, SQL e Java, sei desenvolver app utilizando framework IONIC com o Angular
+Eu tenho 36 anos, sou estudante de análise e desenvolvimento de sistemas na IFSP, adoro trabalhar com python e framework django, mas também tenho conhecimento em Javascript, SQL e Java, sei desenvolver app utilizando framework IONIC com o Angular
 
 ## Estatística
 <p class="center">
